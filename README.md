@@ -18,6 +18,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Gasay%20Liza) 
+
 ## Контакты
 Если у вас есть возможности для сотрудничества, свяжитесь со мной!
 
