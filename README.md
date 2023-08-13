@@ -1,5 +1,5 @@
 ### Привет 👋 Я Лиза
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающий+веб-разработчик+и+системный+администратор)](https://git.io/typing-svg)Начинающий веб-разработчик и системный администратор
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающий+веб-разработчик)](https://git.io/typing-svg)Начинающий веб-разработчик и системный администратор
 <!--
 **Gasay-Liza/Gasay-Liza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
