@@ -23,6 +23,7 @@
 
 [![codewars](https://www.codewars.com/users/Gasay%20Liza/badges/large)](https://www.codewars.com/users/Gasay%20Liza) 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Gasay-Liza?ext=heatmap)
 ## Контакты
 Если у вас есть возможности для сотрудничества, свяжитесь со мной!
 
